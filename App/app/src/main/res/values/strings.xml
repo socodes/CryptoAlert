@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">App</string>
+    <string name="channel_name">Crypto</string>
+    <string name="channel_description">To receive updates about changes in cryptocurrency value</string>
 </resources>
