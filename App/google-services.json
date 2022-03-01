@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444201452849",
+    "project_id": "crypto-alert-17e1f",
+    "storage_bucket": "crypto-alert-17e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444201452849:android:86b51b30d4330615119c10",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444201452849-47jjsjev9k8h9f3t7jlelt2pti07pecg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpXa0L-kZSuIBaQPUp3960dnNrI9MyWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444201452849-47jjsjev9k8h9f3t7jlelt2pti07pecg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
